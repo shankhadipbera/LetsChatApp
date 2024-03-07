@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132870458309",
+    "project_id": "letschat-903a5",
+    "storage_bucket": "letschat-903a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132870458309:android:c3af31e74bc25dca2ad9ac",
+        "android_client_info": {
+          "package_name": "com.shankha.letschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCYxs8wvRh8k7rrgWEIkeunHLF-mHazBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
